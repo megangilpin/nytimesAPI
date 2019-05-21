@@ -1,0 +1,22 @@
+.container{
+    margin-top: 80px;
+}
+h1{
+    text-align: center;
+    background: #203158;
+    color: aliceblue;
+    padding: 20px;
+    
+}
+.Searchparameter{
+
+    background: lightgray;
+}
+
+footer {
+    background: white;
+    text-align: center;
+}
+
+
+
